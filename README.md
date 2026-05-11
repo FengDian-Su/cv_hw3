@@ -153,4 +153,4 @@ The final submission uses an ensemble of two Mask R-CNN models (ResNet-101 + FPN
 | Single model (seed=777) | 0.5045 |
 | **Ensemble (seed=42 + seed=777)** | **0.5286** |
 
-> Leaderboard score and ranking will be updated after final submission.
+![leaderboard.png](leaderboard.png)
